@@ -4,7 +4,6 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -18,20 +17,11 @@ sidebar:
     timezone: India/Kolkata # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Indian
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    github: jekyll
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    mastodon:  # Please include your full Mastodon link here.
-    hackerrank: # Please provide your HackerRank username.
-    leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
-
+    linkedin: LinkedIn
+    url: https://www.linkedin.com/in/pawan-rajput-b3918a251
+              
+    github: GitHub
+    url: https://github.com/RajputPawan
     languages:
       title: Languages
       info:
@@ -40,15 +30,7 @@ sidebar:
         - idiom: Hindi
           level: Mother-Tongue
         
-        
-    interests:
-      title: Interests
-      info:
-        - item: Sci-fi Movies
-          link:
-
-        - item: Net surfing.
-          link:
+      
   
      
 career-profile:
