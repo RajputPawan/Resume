@@ -4,6 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -18,10 +19,8 @@ sidebar:
     citizenship: Indian
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: LinkedIn
-    url: https://www.linkedin.com/in/pawan-rajput-b3918a251/
-              
     github: GitHub
-    url: https://github.com/RajputPawan
+    
     languages:
       title: Languages
       info:
@@ -30,18 +29,14 @@ sidebar:
         - idiom: Hindi
           level: Mother-Tongue
         
-      
-  
      
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.cd ..
+      Linux professional with 2 years of experience and a keen interest in cloud technologies. 
+      Proficient in Linux administration, automation, and inter-organizational engagement. 
+      Expertise in Docker, GitHub, Git, Jenkins, and Bash scripting. 
+      Seeking opportunities to leverage my skills in a dynamic tech environment to drive innovation and efficiency.
     
 education:
     title: Education
