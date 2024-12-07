@@ -19,6 +19,8 @@ sidebar:
     #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: LinkedIn
     github: GitHub
+
+    
     
     languages:
       title: Languages
@@ -44,14 +46,10 @@ education:
         university: CSJM University Kanpur
         time: 2019 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Completed the BCA from Greate Ganges Institute of Technology.
             - Agreegate 86%
             
-      - degree: 10+2
+      - degree: Intermediate
         university: St. Xaviers, School CBSE board
         time: 2018 - 2019
         details: |
