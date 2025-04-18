@@ -92,35 +92,17 @@ experiences:
               - Optimize system performance to handle increasing loads and demands.
             - Backup and Recovery:
               - Ensure regular backups are performed and verify their integrity.
-            
 
-
-          **Server upgrade Engineer**<br>
-            - **Responsibilities includes upgrading the server form SLES12-SLES15**
-                - Client approvalsImplement and maintain security measures to protect systems and data.
-
-                - Stakeholder/App-Owner approvals 
-                - Explaining them the process and need of upgrade 
-                - Patching the server with the lastest patches 
-                - Live troubleshooting with Operations team when something goes wrong after upgrade eg: compatibility ,deployment fail
-                - Inter-Team co-ordiantion to bring about the change in minimum downtime
-                
-            - Tools involved in Upgrade
-                - Vcentre
-                - Splunk ( Monitoring Suppressio)
-                - FPP ( To build new VM with SLES SP5 ISO image.)
-                - Putty(for remote conneciton) 
-
-
-          **Ubuntu Support Team**
+              
+            **EUC-Linux**
             - **Responsibilities**
-              - **Configuring and Managing Client Ubuntu Machines Using SaltStack**
+              - **Configuring and Managing Client Ubuntu Machines Using SaltStack and Foreman**
               - **Making Changes to Git Repositories (Git and GitHub)**
               - **Resolving User Issues**: Including proxy issues, VPN issues, Kerberos ticket authentication, etc.
               - **Patch Management**: Patching client machines using SaltStack and manually patching backend machines on a monthly basis.
-              - **Working on Jira Tasks**: Implementing changes in existing repositories as per user requirements.
+              - **Working on Jira Tasks**: Implementing changes in existing repositories as per user requirements, adding the scripts or updating the existing scripts.
               - **Daily Activities**: Handling ServiceNow tickets and Jira tasks.
-              - **Scrum Meeting**: Understanding requirements and providing updates to both internal and external organizations.
+              - **Scrum Meeting**: Understanding requirements and providing updates to both internal and external organizations, and updating the progress of the task(s).
               
       
 certifications:
@@ -134,16 +116,7 @@ certifications:
             Covered the fundamentals of Azure and how Geography,Region, and Data Centre are interlinked and how cloud works.<br>
             Public,Private and Hybrid Cloud <br>
             Services : IAAS,PAAS,SAAS what ,how and why. etc.<br>
-        - name: Git learning Trained from Linkedin Learning.
-          start: 2024
-          end: 2024
-          details: |
-            Working of Git and GithubCompleted an in-depth course on Git and GitHub, covering essential concepts such as cloning, forking, and managing local repositories.<br>
-            Gained hands-on experience with version control, including branching, merging, and resolving conflicts.<br>
-            Demonstrated ability to collaborate effectively using GitHub, managing pull requests, and contributing to open-source projects.<br>
-            Proficient in using Git commands and GitHub features to streamline development workflows and ensure code integrity.<br>
-
-
+       
 skills:
     title: Skills &amp; Proficiency
 
