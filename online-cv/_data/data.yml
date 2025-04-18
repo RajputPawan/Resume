@@ -95,12 +95,12 @@ experiences:
    
           **EUC-Linux(Ubuntu)**
             - **Responsibilities**
-              - **Working on git/github repositories containing configuratin files(saltstack )**
+              - **Working on git/github**: repositories containing configuratin files(saltstack ) and creating/managing scripts as per the call.
               - **Resolving User Issues**: Including proxy issues, VPN issues, Kerberos ticket,access,docker, etc.
               - **Patch Management**: Patching client machines using SaltStack and manually patching backend machines on a monthly basis.
               - **Working on Jira Tasks**: Implementing changes in existing repositories as per user requirements.
-              - **Daily Activities**: Handling ServiceNow tickets and working on Jira tasks.
-              - **Scrum Meeting**: Attending daily scrum call.
+              - **Daily Activities**: Working on jira tasks, handling Servicenow Tickets.
+              - **Scrum Meeting**: Attending daily scrum call and discussing the outcomes and the status of changes
               - **Foreman**: Configuring client machines using foreman and saltstack [Provisioning, configuring and monitoring , Patching ]
               
       
