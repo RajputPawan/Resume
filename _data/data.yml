@@ -129,14 +129,14 @@ certifications:
       start: 2025
       end: 2028
       details: |
-      Cloud Concepts: Basic understanding of AWS Cloud infrastructure, benefits, and deployment models.
-      Core Services: Overview of key AWS services in compute, storage, databases, and networking.
-      Security and Compliance: AWS shared responsibility model, IAM, and security services.
-      Billing and Pricing: AWS pricing models, Free Tier, and cost management.
-      Support and Documentation: AWS support plans, documentation, and tools like Trusted Advisor.
-      Architecting on AWS: Basic architectural principles and best practices.
-      Deployment and Operations: Introduction to AWS management tools and application deployment basics.
-      Technology: Basics of virtualization, containers, serverless computing, and networking concepts.
+        Cloud Concepts: Basic understanding of AWS Cloud infrastructure, benefits, and deployment models.
+        Core Services: Overview of key AWS services in compute, storage, databases, and networking.
+        Security and Compliance: AWS shared responsibility model, IAM, and security services.
+        Billing and Pricing: AWS pricing models, Free Tier, and cost management.
+        Support and Documentation: AWS support plans, documentation, and tools like Trusted Advisor.
+        Architecting on AWS: Basic architectural principles and best practices.
+        Deployment and Operations: Introduction to AWS management tools and application deployment basics.
+        Technology: Basics of virtualization, containers, serverless computing, and networking concepts.
 
 
 
