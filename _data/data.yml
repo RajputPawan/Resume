@@ -164,6 +164,8 @@ skills:
 
     - name: Other Tools (Saltstack, Foreman, VMware etc)
       level: 50%
+    - name: Kubernetes
+      level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/pawan-rajput-b3918a251" target="_blank" rel="nofollow">Pawan Rajput</a>
