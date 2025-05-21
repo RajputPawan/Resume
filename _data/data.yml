@@ -84,7 +84,7 @@ experiences:
         - Backup and Recovery:
           - Ensure regular backups are performed and verify their integrity.
 
-        **EUC-Linux(jr. DevOps eng.)**
+        **EUC-Linux(Jr. DevOps eng.)**
         - **Responsibilities**
           - **Configuring and Managing Client Ubuntu Machines Using SaltStack and Foreman**
             - Creating, Configuring and Managing the client machine via foreman remotely
@@ -128,6 +128,17 @@ certifications:
     - name: AWS Cloud Practitioner
       start: 2025
       end: 2028
+      details: |
+      Cloud Concepts: Basic understanding of AWS Cloud infrastructure, benefits, and deployment models.
+      Core Services: Overview of key AWS services in compute, storage, databases, and networking.
+      Security and Compliance: AWS shared responsibility model, IAM, and security services.
+      Billing and Pricing: AWS pricing models, Free Tier, and cost management.
+      Support and Documentation: AWS support plans, documentation, and tools like Trusted Advisor.
+      Architecting on AWS: Basic architectural principles and best practices.
+      Deployment and Operations: Introduction to AWS management tools and application deployment basics.
+      Technology: Basics of virtualization, containers, serverless computing, and networking concepts.
+
+
 
 skills:
   title: Skills &amp; Proficiency
