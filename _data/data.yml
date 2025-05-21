@@ -93,15 +93,36 @@ experiences:
               - Ensure regular backups are performed and verify their integrity.
 
               
-            **EUC-Linux**
+            **EUC-Linux(jr. DevOps eng.)**
             - **Responsibilities**
               - **Configuring and Managing Client Ubuntu Machines Using SaltStack and Foreman**
+                - Creating, Configuring and Managing the client machine via foreman remotley 
               - **Making Changes to Git Repositories (Git and GitHub)**
-              - **Resolving User Issues**: Including proxy issues, VPN issues, Kerberos ticket authentication, etc.
-              - **Patch Management**: Patching client machines using SaltStack and manually patching backend machines on a monthly basis.
-              - **Working on Jira Tasks**: Implementing changes in existing repositories as per user requirements, adding the scripts or updating the existing scripts.
-              - **Daily Activities**: Handling ServiceNow tickets and Jira tasks.
-              - **Scrum Meeting**: Understanding requirements and providing updates to both internal and external organizations, and updating the progress of the task(s).
+                - Managing the backend infra.
+                - Managing the doc's hosted on github pages 
+                - Managing client states configured in saltstack podman containers
+                - Scripting and managing the codebase as per the customer requirements.
+                
+              - **Resolving User Issues**: 
+                - Including proxy issues, VPN issues, Kerberos ticket authentication, etc.
+                - Connecting to the user machine remotely via SSH and troubleshoot/resolve the issue as per the SNOW ticket.
+                - Installation of applicaitons/req. of particular application.
+                - System management 
+              - **Patch Management**: 
+                - Patching the client machine remotely via salt-stack 
+                - Patching Backend server manually (Foreman, Graphana,Prometheus,Saltstack podman servers etc.)
+                                  
+              - **Working on Jira Tasks**: 
+                - Tracking the task via Jira
+                - Scripting(Bash) the existing repo , creating new scripts as per the ask
+                - Fixing the bug as per the OS (Focal, Jammy, Noble)
+                - Managing the access of the users(In team) to different servers and tools
+              - **Daily Activities**: 
+                - Handling ServiceNow tickets
+                - Working on Jira tasks
+                - Attending the Scrum call 
+                - Connecting with user (if required) to check on the underlying issue 
+              
               
       
 certifications:
@@ -109,19 +130,21 @@ certifications:
       list:
         - name: AZ-900
           start: 2023
-          end: 2023
+          end: 2030
           organization: Microsoft
           details: |
             Covered the fundamentals of Azure and how Geography,Region, and Data Centre are interlinked and how cloud works.<br>
             Public,Private and Hybrid Cloud <br>
             Services : IAAS,PAAS,SAAS what ,how and why. etc.<br>
-       
+        - name: AWS cloud Practitioner
+          start: 2025 
+          end: 2028
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Linux 
-        level: 75%
+        level: 80%
 
       - name: Docker 
         level: 60%
