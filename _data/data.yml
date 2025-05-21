@@ -164,6 +164,7 @@ skills:
 
     - name: Other Tools (Saltstack, Foreman, VMware etc)
       level: 50%
+      
     - name: Kubernetes
       level: 60%
 
