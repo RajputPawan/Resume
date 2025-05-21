@@ -1,167 +1,158 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    position: left # position of the sidebar : left or right
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: left # position of the sidebar : left or right
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Pawan Rajput
-    tagline: Linux Administrator.
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Pawan Rajput
+  tagline: Linux Administrator.
+  avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: pawan.ggit.bca@gamil.com
-    phone: 6392022174
-    timezone: India/Kolkata # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship: Indian
-    #website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: LinkedIn
-    github: GitHub
+  # Sidebar links
+  email: rajput.pawan.personal@gmail.com
+  phone: 6392022174
+  timezone: India/Kolkata # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Indian
+  # website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  linkedin: LinkedIn
+  github: GitHub
 
-    
-    
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Professional
-        - idiom: Hindi
-          level: Mother-Tongue
-        
-     
-career-profile:
-    title: Career Profile
-    summary: |
-      Linux professional with **2 years** of experience and a keen interest in cloud technologies. 
-      Proficient in Linux administration, automation, and inter-organizational engagement. 
-      Expertise in Docker, GitHub, Git, Jenkins, and Bash scripting. 
-      Seeking opportunities to leverage my skills in a dynamic tech environment to drive innovation and efficiency.
-    
-education:
-    title: Education
+  languages:
+    title: Languages
     info:
-      - degree: BCA 
-        university: CSJM University Kanpur
-        time: 2019 - 2022
-        details: |
-          Completed the BCA from Greate Ganges Institute of Technology.
-            - Agreegate 86%
-            
-      - degree: Intermediate
-        university: St. Xaviers, School CBSE board
-        time: 2018 - 2019
-        details: |
-            - PCM
-            - 86%
+      - idiom: English
+        level: Professional
+      - idiom: Hindi
+        level: Mother-Tongue
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Linux professional with **2 years** of experience and a keen interest in cloud technologies.
+    Proficient in Linux administration, automation, and inter-organizational engagement.
+    Expertise in Docker, GitHub, Git, Jenkins, and Bash scripting.
+    Seeking opportunities to leverage my skills in a dynamic tech environment to drive innovation and efficiency.
+
+education:
+  title: Education
+  info:
+    - degree: BCA
+      university: CSJM University Kanpur
+      time: 2019 - 2022
+      details: |
+        Completed the BCA from Greate Ganges Institute of Technology.
+          - Agreegate 86%
+
+    - degree: Intermediate
+      university: St. Xaviers, School CBSE board
+      time: 2018 - 2019
+      details: |
+        - PCM
+        - 86%
 
 experiences:
-    title: Experiences
-    info:
-      - role: Linux Admin
-        time: 2023 - Present
-        company: Wipro 
-        details: |
-                 
-            - **Responsibilites** <br>
-            - System Monitoring and Maintenance:
-              - Regularly monitor system performance and ensure the stability and reliability of applications.
-              - Perform routine maintenance tasks such as updates, patches, and backups.
-            - Application Deployment and Configuration:
-              - Deploy new applications and updates, ensuring they are configured correctly and optimized for performance.
-              - Manage and configure servers to support application requirements.
-            - Troubleshooting and Issue Resolution:
-              - Identify and resolve system and application issues promptly to minimize downtime.
-              - Collaborate with development and support teams to address and fix bugs.
-            - Security Management:
-              - Implement and maintain security measures to protect systems and data.
-              - Regularly update security protocols and monitor for potential threats.
-            - Automation and Scripting:
-              - Develop and maintain scripts to automate routine tasks and improve efficiency.
-              - Use tools like Ansible, Puppet, or Chef for configuration management and automation.
-            - Documentation and Reporting:
-              - Document system configurations, procedures, and changes for future reference.
-              - Generate reports on system performance, incidents, and resolutions.
-            - Collaboration and Communication:  
-              - Work closely with cross-functional teams to support application development and deployment.
-              - Provide feedback and insights during project planning and execution.
-            - Capacity Planning and Optimization:
-              - Monitor resource usage and plan for future capacity needs.
-              - Optimize system performance to handle increasing loads and demands.
-            - Backup and Recovery:
-              - Ensure regular backups are performed and verify their integrity.
+  title: Experiences
+  info:
+    - role: Linux Admin
+      time: 2023 - Present
+      company: Wipro
+      details: |
+        - **Responsibilities** <br>
+        - System Monitoring and Maintenance:
+          - Regularly monitor system performance and ensure the stability and reliability of applications.
+          - Perform routine maintenance tasks such as updates, patches, and backups.
+        - Application Deployment and Configuration:
+          - Deploy new applications and updates, ensuring they are configured correctly and optimized for performance.
+          - Manage and configure servers to support application requirements.
+        - Troubleshooting and Issue Resolution:
+          - Identify and resolve system and application issues promptly to minimize downtime.
+          - Collaborate with development and support teams to address and fix bugs.
+        - Security Management:
+          - Implement and maintain security measures to protect systems and data.
+          - Regularly update security protocols and monitor for potential threats.
+        - Automation and Scripting:
+          - Develop and maintain scripts to automate routine tasks and improve efficiency.
+          - Use tools like Ansible, Puppet, or Chef for configuration management and automation.
+        - Documentation and Reporting:
+          - Document system configurations, procedures, and changes for future reference.
+          - Generate reports on system performance, incidents, and resolutions.
+        - Collaboration and Communication:
+          - Work closely with cross-functional teams to support application development and deployment.
+          - Provide feedback and insights during project planning and execution.
+        - Capacity Planning and Optimization:
+          - Monitor resource usage and plan for future capacity needs.
+          - Optimize system performance to handle increasing loads and demands.
+        - Backup and Recovery:
+          - Ensure regular backups are performed and verify their integrity.
 
-              
-            **EUC-Linux(jr. DevOps eng.)**
-            - **Responsibilities**
-              - **Configuring and Managing Client Ubuntu Machines Using SaltStack and Foreman**
-                - Creating, Configuring and Managing the client machine via foreman remotley 
-              - **Making Changes to Git Repositories (Git and GitHub)**
-                - Managing the backend infra.
-                - Managing the doc's hosted on github pages 
-                - Managing client states configured in saltstack podman containers
-                - Scripting and managing the codebase as per the customer requirements.
-                
-              - **Resolving User Issues**: 
-                - Including proxy issues, VPN issues, Kerberos ticket authentication, etc.
-                - Connecting to the user machine remotely via SSH and troubleshoot/resolve the issue as per the SNOW ticket.
-                - Installation of applicaitons/req. of particular application.
-                - System management 
-              - **Patch Management**: 
-                - Patching the client machine remotely via salt-stack 
-                - Patching Backend server manually (Foreman, Graphana,Prometheus,Saltstack podman servers etc.)
-                                  
-              - **Working on Jira Tasks**: 
-                - Tracking the task via Jira
-                - Scripting(Bash) the existing repo , creating new scripts as per the ask
-                - Fixing the bug as per the OS (Focal, Jammy, Noble)
-                - Managing the access of the users(In team) to different servers and tools
-              - **Daily Activities**: 
-                - Handling ServiceNow tickets
-                - Working on Jira tasks
-                - Attending the Scrum call 
-                - Connecting with user (if required) to check on the underlying issue 
-              
-              
-      
+        **EUC-Linux(jr. DevOps eng.)**
+        - **Responsibilities**
+          - **Configuring and Managing Client Ubuntu Machines Using SaltStack and Foreman**
+            - Creating, Configuring and Managing the client machine via foreman remotely
+          - **Making Changes to Git Repositories (Git and GitHub)**
+            - Managing the backend infra.
+            - Managing the doc's hosted on github pages
+            - Managing client states configured in saltstack podman containers
+            - Scripting and managing the codebase as per the customer requirements.
+
+          - **Resolving User Issues**:
+            - Including proxy issues, VPN issues, Kerberos ticket authentication, etc.
+            - Connecting to the user machine remotely via SSH and troubleshoot/resolve the issue as per the SNOW ticket.
+            - Installation of applications/req. of particular application.
+            - System management
+          - **Patch Management**:
+            - Patching the client machine remotely via salt-stack
+            - Patching Backend server manually (Foreman, Grafana, Prometheus, Saltstack podman servers etc.)
+
+          - **Working on Jira Tasks**:
+            - Tracking the task via Jira
+            - Scripting(Bash) the existing repo, creating new scripts as per the ask
+            - Fixing the bug as per the OS (Focal, Jammy, Noble)
+            - Managing the access of the users(In team) to different servers and tools
+          - **Daily Activities**:
+            - Handling ServiceNow tickets
+            - Working on Jira tasks
+            - Attending the Scrum call
+            - Connecting with user (if required) to check on the underlying issue
+
 certifications:
-      title: Certifications
-      list:
-        - name: AZ-900
-          start: 2023
-          end: 2030
-          organization: Microsoft
-          details: |
-            Covered the fundamentals of Azure and how Geography,Region, and Data Centre are interlinked and how cloud works.<br>
-            Public,Private and Hybrid Cloud <br>
-            Services : IAAS,PAAS,SAAS what ,how and why. etc.<br>
-        - name: AWS cloud Practitioner
-          start: 2025 
-          end: 2028
+  title: Certifications
+  list:
+    - name: AZ-900
+      start: 2023
+      end: 2030
+      organization: Microsoft
+      details: |
+        Covered the fundamentals of Azure and how Geography, Region, and Data Centre are interlinked and how cloud works.<br>
+        Public, Private and Hybrid Cloud <br>
+        Services: IAAS, PAAS, SAAS what, how and why. etc.<br>
+    - name: AWS Cloud Practitioner
+      start: 2025
+      end: 2028
+
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Linux 
-        level: 80%
+  toolset:
+    - name: Linux
+      level: 80%
 
-      - name: Docker 
-        level: 60%
+    - name: Docker
+      level: 60%
 
-      - name: Git 
-        level: 70%
+    - name: Git
+      level: 70%
 
-      - name: Jenkins
-        level: 60%
+    - name: Jenkins
+      level: 60%
 
-      - name: AWS 
-        level: 65%
+    - name: AWS
+      level: 65%
 
-      - name: Bash scripting
-        level: 60%
-      
-      - name: Other Tools (Saltstack, Foreman, vMware etc)
-        level: 50%
+    - name: Bash scripting
+      level: 60%
+
+    - name: Other Tools (Saltstack, Foreman, VMware etc)
+      level: 50%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/pawan-rajput-b3918a251" target="_blank" rel="nofollow">Pawan Rajput</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/pawan-rajput-b3918a251" target="_blank" rel="nofollow">Pawan Rajput</a>
