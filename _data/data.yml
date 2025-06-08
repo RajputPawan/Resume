@@ -117,7 +117,7 @@ experiences:
 certifications:
   title: Certifications
   list:
-    - name: AZ-900
+    - name: **AZ-900**
       start: 2023
       end: 2030
       organization: Microsoft
@@ -125,7 +125,7 @@ certifications:
         Covered the fundamentals of Azure and how Geography, Region, and Data Centre are interlinked and how cloud works.<br>
         Public, Private and Hybrid Cloud <br>
         Services: IAAS, PAAS, SAAS what, how and why. etc.<br>
-    - name: AWS Cloud Practitioner
+    - name: **AWS Cloud Practitioner**
       start: 2025
       end: 2028
       details: |
@@ -137,7 +137,7 @@ certifications:
         Architecting on AWS: Basic architectural principles and best practices.
         Deployment and Operations: Introduction to AWS management tools and application deployment basics.
         Technology: Basics of virtualization, containers, serverless computing, and networking concepts.
-    - name: RHCSA (Redhat Certified System Administrator)
+    - name: **RHCSA(Redhat Certified System Administrator)**
       start: 2025
       end: 2028
       details: |
