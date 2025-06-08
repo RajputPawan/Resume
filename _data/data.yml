@@ -27,9 +27,9 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Linux professional with **2 years** of experience and a keen interest in cloud technologies.
+    Jr. DevOps eng. with **2+ years** of experience and a keen interest in cloud technologies.
     Proficient in Linux administration, automation, and inter-organizational engagement.
-    Expertise in Docker, GitHub, Git, Jenkins, and Bash scripting.
+    Expertise in Docker, Podman ,Kubernetes, GitHub, Git, Jira, Confluence,Foreman, Saltstack, and Bash scripting.
     Seeking opportunities to leverage my skills in a dynamic tech environment to drive innovation and efficiency.
 
 education:
@@ -137,7 +137,15 @@ certifications:
         Architecting on AWS: Basic architectural principles and best practices.
         Deployment and Operations: Introduction to AWS management tools and application deployment basics.
         Technology: Basics of virtualization, containers, serverless computing, and networking concepts.
-
+    - name: RHCSA (Redhat Certified System Administrator)
+      start: 2025
+      end: 2028
+      details: |
+       Certified Red Hat System Administrator (RHCSA) with hands-on expertise in RHEL-based systems.
+       Proficient in user and group management, file permissions, and system security hardening.
+       Experienced in configuring and managing LVM, partitions, and Linux file systems (ext4, xfs).
+       Skilled in service and process management using systemctl, along with system performance monitoring.
+       Capable of automating tasks with shell scripting and scheduling using cron and at.
 
 
 skills:
