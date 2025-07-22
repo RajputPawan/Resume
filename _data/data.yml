@@ -86,36 +86,36 @@ experiences:
 
         **Jr. DevOps eng.**
         - **Responsibilities**
-          - **System Configuration & Management**
-            - Configured and managed client Ubuntu machines using SaltStack and Foreman.
-            - Provisioned and administered client machines remotely via Foreman, ensuring consistent infrastructure deployment.
-            - Maintained and updated SaltStack states, including managing containerized environments using Podman. 
-          - **Infrastructure & Automation**
-            - Oversaw backend infrastructure services and systems, including patching and updates for core services such as Foreman, Grafana, Prometheus, and SaltStack
-            - Automated routine system administration tasks using Bash scripting, enhancing operational efficiency.
+        - **System Configuration & Management**
+          - Configured and managed client Ubuntu machines using SaltStack and Foreman.
+          - Provisioned and administered client machines remotely via Foreman, ensuring consistent infrastructure deployment.
+           - Maintained and updated SaltStack states, including managing containerized environments using Podman. 
+        - **Infrastructure & Automation**
+          - Oversaw backend infrastructure services and systems, including patching and updates for core services such as Foreman, Grafana, Prometheus, and SaltStack
+          - Automated routine system administration tasks using Bash scripting, enhancing operational efficiency.
             
-          - **Remote User Support**:
-            - Provided technical support to end-users by troubleshooting and resolving issues related to proxies, VPNs, Kerberos authentication, and software installation
-            - Remotely accessed user machines via SSH to diagnose and resolve incidents logged via ServiceNow (SNOW).
-            - Ensured prompt response and resolution of ServiceNow incidents and service requests.
-          - **Version Control & Documentation**:
-            - Managed Git repositories using Git and GitHub; created and updated documentation hosted via GitHub Pages.
-            - Collaborated with team members to maintain and standardize scripts and configuration files in version-controlled environments.
+        - **Remote User Support**:
+          - Provided technical support to end-users by troubleshooting and resolving issues related to proxies, VPNs, Kerberos authentication, and software installation
+          - Remotely accessed user machines via SSH to diagnose and resolve incidents logged via ServiceNow (SNOW).
+          - Ensured prompt response and resolution of ServiceNow incidents and service requests.
+        - **Version Control & Documentation**:
+          - Managed Git repositories using Git and GitHub; created and updated documentation hosted via GitHub Pages.
+          - Collaborated with team members to maintain and standardize scripts and configuration files in version-controlled environments.
 
-          - **Patch Management**:
-            - Executed remote patching of client machines using SaltStack.
-            - Performed manual patching and maintenance of core backend servers and containerized services.
-          - **Access & Security**:
-            - Managed and audited user access to critical servers and internal tools, ensuring compliance with organizational access policies.
+        - **Patch Management**:
+          - Executed remote patching of client machines using SaltStack.
+          - Performed manual patching and maintenance of core backend servers and containerized services.
+        - **Access & Security**:
+          - Managed and audited user access to critical servers and internal tools, ensuring compliance with organizational access policies.
         
-          - **Project & Task Management**:
-            - Actively contributed to project tracking and sprint management using Jira.
-            - Participated in daily scrum calls with clients and stakeholders to review progress and blockers.
-            - Took ownership of assigned Jira tasks, including debugging, scripting enhancements, and new feature development.
-          - **Daily Operations**:
-            - Responded to and resolved ServiceNow tickets.
-            - Engaged in sprint planning and retrospective sessions with clients
-            - Coordinated with end-users for issue reproduction and resolution.
+         - **Project & Task Management**:
+          - Actively contributed to project tracking and sprint management using Jira.
+          - Participated in daily scrum calls with clients and stakeholders to review progress and blockers.
+          - Took ownership of assigned Jira tasks, including debugging, scripting enhancements, and new feature development.
+        - **Daily Operations**:
+          - Responded to and resolved ServiceNow tickets.
+          - Engaged in sprint planning and retrospective sessions with clients
+          - Coordinated with end-users for issue reproduction and resolution.
 
 
 certifications:
