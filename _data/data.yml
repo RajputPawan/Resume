@@ -126,30 +126,16 @@ certifications:
       end: 2030
       organization: Microsoft
       details: |
-        Covered the fundamentals of Azure and how Geography, Region, and Data Centre are interlinked and how cloud works.<br>
-        Public, Private and Hybrid Cloud <br>
-        Services: IAAS, PAAS, SAAS what, how and why. etc.<br>
+
     - name: AWS Cloud Practitioner
       start: 2025
       end: 2028
       details: |
-        Cloud Concepts: Basic understanding of AWS Cloud infrastructure, benefits, and deployment models.
-        Core Services: Overview of key AWS services in compute, storage, databases, and networking.
-        Security and Compliance: AWS shared responsibility model, IAM, and security services.
-        Billing and Pricing: AWS pricing models, Free Tier, and cost management.
-        Support and Documentation: AWS support plans, documentation, and tools like Trusted Advisor.
-        Architecting on AWS: Basic architectural principles and best practices.
-        Deployment and Operations: Introduction to AWS management tools and application deployment basics.
-        Technology: Basics of virtualization, containers, serverless computing, and networking concepts.
+
     - name: RHCSA (Redhat Certified System Administrator)
       start: 2025
       end: 2028
-      details: |
-       Certified Red Hat System Administrator (RHCSA) with hands-on expertise in RHEL-based systems.
-       Proficient in user and group management, file permissions, and system security hardening.
-       Experienced in configuring and managing LVM, partitions, and Linux file systems (ext4, xfs).
-       Skilled in service and process management using systemctl, along with system performance monitoring.
-       Capable of automating tasks with shell scripting and scheduling using cron and at.
+
 
 
 skills:
